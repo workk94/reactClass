@@ -1,0 +1,30 @@
+.App3 {
+  text-align: center;
+}
+
+.Gallery {
+  width: 500px;
+  height: 350px;
+  border: 1px solid black;
+
+  margin: 0px auto;
+  /* 부모지정 */
+  position: relative;
+}
+
+.Gallery .preBtn {
+  position: absolute;
+  left: 0px;
+  top: 150px;
+}
+
+.Gallery .NextBtn {
+  position: absolute;
+  right: 0px;
+  top: 150px;
+}
+
+.Gallery img {
+  width: 100%;
+  height: 350px;
+}

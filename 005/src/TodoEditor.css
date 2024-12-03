@@ -1,0 +1,19 @@
+.editor_wrapper{
+
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    margin-bottom: 50px;
+}
+
+
+.editor_wrapper input{
+
+    flex:1;
+    padding: 15px;
+}
+
+
+.editor_wrapper button{
+    width: 80px;
+}

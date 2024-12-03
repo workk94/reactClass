@@ -1,0 +1,12 @@
+.Item {
+  display: flex;
+  border: 1px solid black;
+}
+
+.Item .col1 {
+  flex: 1;
+}
+
+.Item .col2 {
+  flex: 3;
+}
